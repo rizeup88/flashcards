@@ -1,0 +1,147 @@
+body {
+	background-color: #FFFFFF;
+}
+
+h1 {
+	font-family: "Krungthep";
+}
+
+p {
+	font-family: "Ubuntu";
+}
+
+.header {
+	position: relative;
+	margin-top: 2em;
+}
+
+.header .container {
+	text-align: center;
+}
+
+.primer {
+	position: relative;
+	margin-top: 2em;
+}
+
+.primer .container {
+	background-color: #c3d5de;
+  	padding: 10px;
+  	text-align: center;
+}
+
+.primer h1 {
+	font-size: 30px;
+}
+
+.main .container {
+	background-color: #dbdbdb;
+	margin-top: 2em;
+	padding: 30px 30px;
+}
+
+.container .terms h1 {
+	font-family: "Ubuntu";
+	font-size: 26px;
+}
+
+.js-showing {
+  	display: none;
+}
+
+.op-showing {
+  	display: none;
+}
+
+.vb-showing {
+  	display: none;
+}
+
+.vn-showing {
+  	display: none;
+}
+
+.fn-showing {
+  	display: none;
+}
+
+.md-showing {
+  	display: none;
+}
+
+.ar-showing {
+  	display: none;
+}
+
+.pm-showing {
+  	display: none;
+}
+
+.rt-showing {
+  	display: none;
+}
+
+.cm-showing {
+  	display: none;
+}
+
+.st-showing {
+  	display: none;
+}
+
+.bo-showing {
+  	display: none;
+}
+
+.df-showing {
+  	display: none;
+}
+
+.mt-showing {
+  	display: none;
+}
+
+.nn-showing {
+  	display: none;
+}
+
+.es-showing {
+  	display: none;
+}
+
+.al-showing {
+  	display: none;
+}
+
+.co-showing {
+  	display: none;
+}
+
+.jq-showing {
+  	display: none;
+}
+
+.ab-showing {
+  	display: none;
+}
+
+.clickable {
+  	cursor: pointer;
+  	color: #0088cc;
+  	font-weight: 600;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.moreinfo {
+	position: relative;
+}
+
+.moreinfo .container {
+	background-color: #d3e4ed;
+	text-align: center;
+	margin-top: 2em;
+	padding: 30px 30px;
+}
